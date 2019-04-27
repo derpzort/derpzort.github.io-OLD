@@ -7270,3 +7270,9 @@ a.credit {
 .section {
   padding-bottom: 0;
 }
+
+.padme {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: justify;
+}
