@@ -5179,7 +5179,7 @@ Created using IcoMoon - icomoon.io
 
 .page-header .category,
 .page-header .description {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.2);
 }
 
 .page-header.page-header-small {
@@ -5203,13 +5203,13 @@ Created using IcoMoon - icomoon.io
 }
 
 .page-header[filter-color="orange"] {
-  background: rgba(44, 44, 44, 0.2);
+  background: rgba(44, 44, 44, 0.0);
   /* For browsers that do not support gradients */
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(33, 31, 107, 0.2)), to(rgba(224, 23, 3, 0.6)));
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(33, 31, 107, 0.0)), to(rgba(224, 23, 3, 0.0)));
+  background: linear-gradient(0deg, rgba(44, 44, 44, 0.0), rgba(224, 23, 3, 0.0));
   /* Standard syntax */
 }
 
@@ -7047,8 +7047,8 @@ Created using IcoMoon - icomoon.io
 /* Body */
 /* Profile Page Background Style */
 .page-header {
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 0.0)), to(rgba(255, 255, 255, 0.5)));
-  background: linear-gradient(0deg, rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.5));
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 0.0)), to(rgba(255, 255, 255, 0.3)));
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.3));
 }
 
 .page-header .btn {
